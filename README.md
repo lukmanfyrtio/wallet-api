@@ -42,7 +42,7 @@ npm run start
   }'
    ```
 
-### Response
+Response
 ```shell
 HTTP/1.1 200 OK
 connection: keep-alive
@@ -66,7 +66,7 @@ x-powered-by: Express
 }'
    ```
 
-### Response
+Response
 ```shell
 HTTP/1.1 200 OK
 connection: keep-alive
@@ -90,7 +90,7 @@ x-powered-by: Express
 }'
    ```
 
-### Response
+Response
 ```shell
 HTTP/1.1 200 OK
 connection: keep-alive
@@ -113,7 +113,7 @@ x-powered-by: Express
 }'
    ```
 
-### Response
+Response
 ```shell
 HTTP/1.1 200 OK
 connection: keep-alive
